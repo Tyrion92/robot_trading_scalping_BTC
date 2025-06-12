@@ -1,7 +1,7 @@
 import datetime
 import sys
 
-sys.path.append("./Live-Tools-BTC Scalping-main")
+sys.path.append("./robot_trading_scalping_BTC-main")
 import asyncio
 from utilities.bitget_perp import PerpBitget
 from secret import ACCOUNTS
