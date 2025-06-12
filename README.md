@@ -1,7 +1,8 @@
-# Live-Tools-V2
+# robot_trading_scalping_BTC
 
 ## Set up
 
-> git clone https://github.com/CryptoRobotFr/Live-Tools-V2.git
 
-> bash Live-Tools-V2/install.sh
+> git clone https://github.com/Tyrion92/robot_trading_scalping_BTC.git
+
+> bash robot_trading_scalping_BTC/install.sh
